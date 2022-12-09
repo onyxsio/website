@@ -1142,6 +1142,7 @@ section {
 --------------------------------------------------------------*/
 .featured-services .service-item {
   padding: 30px;
+  text-align: center;
   transition: all ease-in-out 0.4s;
   background: var(--color-white);
   height: 100%;
