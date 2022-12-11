@@ -2374,26 +2374,26 @@ section {
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.4);
   padding: 30px;
 }
-.contact .php-email-form .error-message {
+/* .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
-  background: #ed3c0d;
+  color:#ed3c0d ;
+  background: #fff;
   text-align: left;
-  padding: 15px;
-  font-weight: 600;
+  padding: 10px;
+  font-weight: 400;
 }
 .contact .php-email-form .error-message br+br {
   margin-top: 25px;
-}
+} */
 
-.contact .php-email-form .sent-message {
+/* .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
-  background: #18d26e;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
+  /* background  : #fff; */
+  /* color: #18d26e; */
+  /* text-align: center; */
+  /* padding: 15px; */
+  /* font-weight: 400; */
+/* }  */
 /* .contact .info-item+.info-item {
   padding-top: 20px;
   margin-top: 20px;
@@ -2434,11 +2434,11 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: var(--color-white);
-  background: var(--color-red);
+  color: var(--color-red);
+  /* background: var(--color-red); */
   text-align: left;
-  padding: 15px;
-  font-weight: 600;
+  /* padding: 15px; */
+  font-weight: 500;
 }
 
 .contact .php-email-form .error-message br+br {
@@ -2447,11 +2447,12 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: var(--color-white);
-  background: var(--color-green);
+  color: var(--color-green);
+  /* color: var(--color-white); */
+  /* background: var(--color-green); */
   text-align: center;
-  padding: 15px;
-  font-weight: 600;
+  /* padding: 15px; */
+  font-weight: 500;
 }
 
 .contact .php-email-form .loading {
