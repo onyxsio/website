@@ -1274,7 +1274,8 @@ section {
 # Clients Section
 --------------------------------------------------------------*/
 .clients {
-  padding: 0 0 60px 0;
+  padding: 60px 0 60px 0;
+
 }
 
 .clients .swiper-slide img {
